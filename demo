@@ -1,0 +1,2 @@
+ssh-keygen -t rsa -b 4096 -C "your-github-email@example.com"
+ssh -T git@github.com
